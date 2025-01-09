@@ -12,6 +12,9 @@
     --azul-degrade: #002F52;
     --azul: #002F52;
     --fonte-principal: "Poppins";
+    --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
 }
 
 body{
